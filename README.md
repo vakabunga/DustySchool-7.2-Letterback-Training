@@ -22,4 +22,4 @@
 1. git clone
 2. mpm install
 3. node index
-4. use postman or other services to send POST request to server with string data
+4. use postman or other services to send POST request to server with object in body. Body must be like `{"string": "your_string"}`
